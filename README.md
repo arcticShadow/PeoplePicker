@@ -25,3 +25,6 @@ Designed to pick 3 people from an array in a json file. Could also be used to pi
     "Person 10"
 ]
 ````
+
+## Help
+The best way to get help and see the available options is to run `node index.js --help`
