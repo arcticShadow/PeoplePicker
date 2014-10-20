@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "commander": "^2.4.0",
     "comment-json": "^0.1.11",
     "random-js": "^1.0.4"
   }
